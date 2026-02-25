@@ -1,2 +1,3 @@
-# Hr-Analytics-Excel-Dashboard
-HR Analytics Dashboard project using Excel
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
